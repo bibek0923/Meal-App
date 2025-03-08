@@ -1,16 +1,30 @@
-# meal_app
+# MealApp
 
-A new Flutter project.
+MealApp is a mobile application that provides users with a variety of meal recipes. Users can explore different recipes, apply filters to view specific types of meals, and save their favorite meals for future reference. The app is designed to help users easily find meal ideas and enjoy cooking their favorite dishes.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- **Meal Recipes**: Explore a variety of meal recipes for breakfast, lunch, dinner, snacks, and more.
+- **Filters**: Users can apply filters to view meals based on categories like cuisine, diet preferences (e.g., vegetarian, vegan, gluten-free), and ingredients.
+- **Favorites**: Users can save their favorite meals to a personal list for easy access.
+- **Search**: Quickly search for specific recipes by name or ingredient.
+- **Meal Details**: View detailed information about each meal, including ingredients, preparation steps, and nutritional information.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Installation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ Clone this repository to your local machine:
+
+```bash
+  https://github.com/bibek0923/Meal-App.git
+
+```
+ Open the project in your preferred IDE (Android Studio/VS code).
+
+ ## Demo
+ https://drive.google.com/file/d/1sFG16zSxcck_cC1FWigmH7LuSE2bHF3g/view?usp=drive_link
+
+ ## License
+This project is licensed under the MIT License - see the [LICENSE](https://choosealicense.com/licenses/mit/) file for details.
+ 
+
